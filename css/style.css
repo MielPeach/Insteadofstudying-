@@ -519,7 +519,7 @@ h3 {
       width: 100%;
     }
     .start {
-        height: 130vh;
+        height: 120vh;
     }
     .story {
         height: 300vh;
@@ -556,6 +556,7 @@ h3 {
     .osov_content {
         flex-direction: column;
         flex-wrap: nowrap;
+         justify-content: space-between;
     }
     .fotca {
         width: 95%;
