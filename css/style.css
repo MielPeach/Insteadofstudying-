@@ -489,6 +489,9 @@ h3 {
     .img_intro {
         display: none;
     }
+    p {
+        font-size: 18px;
+    }
     .block_text_intro {
         width: 100%;
         height: 100%;
@@ -519,7 +522,8 @@ h3 {
       width: 100%;
     }
     .start {
-        height: 120vh;
+        height: 135vh;
+
     }
     .story {
         height: 300vh;
@@ -556,7 +560,7 @@ h3 {
     .osov_content {
         flex-direction: column;
         flex-wrap: nowrap;
-         justify-content: space-between;
+        justify-content: space-between;
     }
     .fotca {
         width: 95%;
@@ -570,13 +574,14 @@ h3 {
         height: 350px;
     }
     .foto_infa p {
-        font-size: 20px;
+        font-size: 18px;
     }
    
     .chum_4 {
         background-position-x: -96px;
     }
 }
+
 footer {
     width: 100%;
     height: 15vh;
