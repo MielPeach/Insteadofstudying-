@@ -419,6 +419,9 @@ h3 {
     transition: 0.5s;
     text-align: center;
     padding: 30px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .foto_infa p {
